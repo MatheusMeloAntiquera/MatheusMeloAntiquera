@@ -23,3 +23,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeloAntiquera&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/MatheusMeloAntiquera/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-melo-antiquera/)
