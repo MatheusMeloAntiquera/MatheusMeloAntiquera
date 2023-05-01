@@ -6,8 +6,6 @@
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat-square&logo=typescript) 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=nodedotjs&color=6DA55F) 
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat-square&logo=react&logoColor=61DAFB) 
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat-square&logo=jquery&logoColor=0769AD) 
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat-square&logo=vuedotjs&logoColor=4FC08D&color=35495E) 
 
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=00ADD8)
 
