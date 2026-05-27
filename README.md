@@ -22,6 +22,6 @@
 ![](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat-square&logo=mongodb&color=4EA94B&logoColor=4EA94B)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeloAntiquera&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/MatheusMeloAntiquera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeloAntiquera)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-melo-antiquera/)
